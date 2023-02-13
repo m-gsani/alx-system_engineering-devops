@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~ | cat /etc/passwd /etc/shadow
+cd ~ | cat /etc/passwd /etc/hosts
