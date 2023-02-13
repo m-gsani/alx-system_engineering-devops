@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ./ect/passed | tail -10
+cat ./etc/passwd | tail -10
