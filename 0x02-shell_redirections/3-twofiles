@@ -1,2 +1,2 @@
  #!/bin/bash
-cat ./etc/passwd ./ect/shadow
+cd ~ | cat /etc/passwd /ect/shadow
